@@ -1,14 +1,27 @@
 # **MY NSU LABS FOR 1 COURSE OF PROGRAMMING LESSONS**
 ## currently 8/21 are done*
 
-- lab-begin
-- lab0
-- lab1-1
-- lab3-0
-- lab3-1
-- lab4
-- lab8-0
-- lab9
+- lab-begin ✅
+- lab0 ✅
+- lab1-0 ❌
+- lab1-1 ✅
+- lab1-2 ❌
+- lab2 ❌
+- lab3-0 ✅
+- lab3-1 ✅
+- lab4 ✅
+- lab5 ❌
+- lab6-0 ❌
+- lab6-1 ❌
+- lab6-2 ❌
+- lab6-3 ❌
+- lab7 ❌
+- lab8-0 ✅
+- lab8-1 ❌
+- lab9 ✅
+- lab10 ❌
+- lab11 ❌
+- labkosorajo ❌
 
 These are my labs for programming lessons in Novosibirsk State University
 Ill be trying to complete them as i have enough time to do it.
