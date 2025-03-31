@@ -1,5 +1,5 @@
 # **MY NSU LABS FOR 1 COURSE OF PROGRAMMING LESSONS**
-## currently 8/20 are done
+## currently 8/21 are done
 
 These are my labs for programming lessons in Novosibirsk State University
 Ill be trying to complete them as i have enough time to do it.
