@@ -6,7 +6,7 @@
 - lab1-0 ❌
 - lab1-1 ✅
 - lab1-2 ❌
-- lab2 ❌
+- lab2 ✅
 - lab3-0 ✅
 - lab3-1 ✅
 - lab4 ✅
