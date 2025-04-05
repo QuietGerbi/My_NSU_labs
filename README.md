@@ -17,7 +17,7 @@
 - lab6-3 ❌
 - lab7 ❌
 - lab8-0 ✅
-- lab8-1 ❌
+- lab8-1 ✅
 - lab9 ✅
 - lab10 ❌
 - lab11 ❌
