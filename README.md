@@ -1,9 +1,9 @@
 # **MY NSU LABS FOR 1 COURSE OF PROGRAMMING LESSONS**
-## currently 12/21 are done*
+## currently 13/21 are done*
 
 - lab-begin ✅
 - lab0 ✅
-- lab1-0 ❌
+- lab1-0 ✅
 - lab1-1 ✅
 - lab1-2 ❌
 - lab2 ✅
