@@ -10,7 +10,7 @@
 - lab3-0 ✅
 - lab3-1 ✅
 - lab4 ✅
-- lab5 ❌
+- lab5 ✅
 - lab6-0 ✅
 - lab6-1 ✅
 - lab6-2 ❌
@@ -19,8 +19,8 @@
 - lab8-0 ✅
 - lab8-1 ✅
 - lab9 ✅
-- lab10 ❌
-- lab11 ❌
+- lab10 ✅
+- lab11 ✅
 - labkosorajo ❌
 
 These are my labs for programming lessons in Novosibirsk State University
